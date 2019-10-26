@@ -1,0 +1,122 @@
+[
+  {
+    "Npax": 1,
+    "arriveFato": 1,
+    "arriveVertiport": "B",
+    "departureFato": 1,
+    "departureVertiport": "A",
+    "flightId": 1,
+    "missionId": 101,
+    "pavId": "Drone1",
+    "sTOT": "2019/10/17T00:00:30Z",
+    "sLDT": "2019/10/17T00:20:00Z"
+  },
+  {
+    "Npax": 1,
+    "arriveFato": 1,
+    "arriveVertiport": "C",
+    "departureFato": 1,
+    "departureVertiport": "B",
+    "flightId": 2,
+    "missionId": 102,
+    "pavId": "Drone1",
+    "sTOT": "2019/10/17T00:25:00Z",
+    "sLDT": "2019/10/17T00:40:00Z"
+  },
+  {
+    "Npax": 2,
+    "arriveFato": 1,
+    "arriveVertiport": "A",
+    "departureFato": 1,
+    "departureVertiport": "C",
+    "flightId": 3,
+    "missionId": 103,
+    "pavId": "Drone1",
+    "sTOT": "2019/10/17T00:45:00Z",
+    "sLDT": "2019/10/17T00:54:00Z"
+  },
+  {
+    "Npax": 2,
+    "arriveFato": 1,
+    "arriveVertiport": "B",
+    "departureFato": 1,
+    "departureVertiport": "A",
+    "flightId": 4,
+    "missionId": 104,
+    "pavId": "Drone1",
+    "sTOT": "2019/10/17T01:01:00Z",
+    "sLDT": "2019/10/17T01:20:00Z"
+  },
+  {
+    "Npax": 0,
+    "arriveFato": 1,
+    "arriveVertiport": "C",
+    "departureFato": 1,
+    "departureVertiport": "B",
+    "flightId": 5,
+    "missionId": 105,
+    "pavId": "Drone1",
+    "sTOT": "2019/10/17T01:25:00Z",
+    "sLDT": "2019/10/17T01:40:00Z"
+  },
+  {
+    "Npax": 1,
+    "arriveFato": 1,
+    "arriveVertiport": "B",
+    "departureFato": 1,
+    "departureVertiport": "C",
+    "flightId": 6,
+    "missionId": 101,
+    "pavId": "Drone2",
+    "sTOT": "2019/10/17T00:00:30Z",
+    "sLDT": "2019/10/17T00:15:00Z"
+  },
+  {
+    "Npax": 1,
+    "arriveFato": 1,
+    "arriveVertiport": "C",
+    "departureFato": 1,
+    "departureVertiport": "B",
+    "flightId": 7,
+    "missionId": 102,
+    "pavId": "Drone2",
+    "sTOT": "2019/10/17T00:23:00Z",
+    "sLDT": "2019/10/17T00:38:00Z"
+  },
+  {
+    "Npax": 2,
+    "arriveFato": 1,
+    "arriveVertiport": "B",
+    "departureFato": 1,
+    "departureVertiport": "C",
+    "flightId": 8,
+    "missionId": 103,
+    "pavId": "Drone2",
+    "sTOT": "2019/10/17T00:45:00Z",
+    "sLDT": "2019/10/17T01:00:00Z"
+  },
+  {
+    "Npax": 2,
+    "arriveFato": 1,
+    "arriveVertiport": "C",
+    "departureFato": 1,
+    "departureVertiport": "B",
+    "flightId": 9,
+    "missionId": 104,
+    "pavId": "Drone2",
+    "sTOT": "2019/10/17T01:05:00Z",
+    "sLDT": "2019/10/17T01:20:00Z"
+  },
+  {
+    "Npax": 3,
+    "arriveFato": 1,
+    "arriveVertiport": "B",
+    "departureFato": 1,
+    "departureVertiport": "C",
+    "flightId": 10,
+    "missionId": 105,
+    "pavId": "Drone2",
+    "sTOT": "2019/10/17T01:25:00Z",
+    "sLDT": "2019/10/17T01:40:00Z"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "pavId": "Drone1",
+    "V_min": 50,
+    "V_max": 60,
+    "Pax_max": 4,
+    "cost": 4
+  },
+  {
+    "pavId": "Drone2",
+    "V_min": 50,
+    "V_max": 60,
+    "Pax_max": 4,
+    "cost": 4
+  },
+  {
+    "pavId": "Drone3",
+    "V_min": 50,
+    "V_max": 60,
+    "Pax_max": 4,
+    "cost": 4
+  },
+  {
+    "pavId": "Drone4",
+    "V_min": 50,
+    "V_max": 60,
+    "Pax_max": 4,
+    "cost": 4
+  },
+  {
+    "pavId": "Drone5",
+    "V_min": 50,
+    "V_max": 60,
+    "Pax_max": 2,
+    "cost": 2.5
+  },
+  {
+    "pavId": "Drone6",
+    "V_min": 50,
+    "V_max": 60,
+    "Pax_max": 2,
+    "cost": 2.5
+  },
+  {
+    "pavId": "Drone7",
+    "V_min": 50,
+    "V_max": 60,
+    "Pax_max": 2,
+    "cost": 2.5
+  },
+  {
+    "pavId": "Drone8",
+    "V_min": 50,
+    "V_max": 60,
+    "Pax_max": 2,
+    "cost": 2.5
+  },
+  {
+    "pavId": "Drone9",
+    "V_min": 50,
+    "V_max": 60,
+    "Pax_max": 2,
+    "cost": 2.5
+  }
+]
