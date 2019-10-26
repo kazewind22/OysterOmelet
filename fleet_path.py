@@ -1240,7 +1240,7 @@ def evaluate_schedule(json_schedule, vehicle_config, node_list, edge_list, price
     print('Profit             : {:>30}'.format(round(profit,2)))
     print('====================================================================')
 
-    plt.show()
+    #plt.show()
 
     return 0
 
