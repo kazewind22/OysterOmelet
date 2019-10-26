@@ -22,7 +22,7 @@ params['plot_axis_time_buffer'] = timedelta(minutes = 5) # buffer time added bef
 # Trajecotry parameters:
 
 #params['FATO_transit_time'] = 45 # FATO transit time estimated at 45 seconds.
-#params['FATO_to_gate_transit_time'] = 45 
+#params['FATO_to_gate_transit_time'] = 45
 
 params['FATO_transit_time'] = timedelta(seconds = 60)
 params['FATO_to_gate_transit_time'] = timedelta(seconds = 60)

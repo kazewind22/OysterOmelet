@@ -273,7 +273,7 @@ def NetworkTo1D(Network):
             (Remaining network is shown below:)
 
             A   B
-            |\ 
+            |\
             | \
             |  \
             D   C

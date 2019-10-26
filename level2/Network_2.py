@@ -1,7 +1,7 @@
 ''' Polyhack NETWORK 2: this network has no single Euler path (minimum 2):
-    
+
      A-----B
-     |    /\ 
+     |    /\
      |   /  \
      |  /    \
      | /      \
@@ -12,8 +12,8 @@
         \
          \
           D
-          
-# First the node list is declared, see network structure in the fleetPath 
+
+# First the node list is declared, see network structure in the fleetPath
   script:'''
 node_list = [('A', 0,      20000, 1, 2),
              ('B', 2650,   34000, 1, 2),
@@ -28,8 +28,8 @@ edge_list = [('A', 'B'),
              ('E', 'C'),
              ('E', 'D')]
 
-price_list= [33, 
-             50, 
+price_list= [33,
+             50,
              33,
              20,
              33,
