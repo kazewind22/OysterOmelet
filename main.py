@@ -8,7 +8,7 @@ import network as nW
 # Uncomment the level that you are currently evaluating:
 #==============================================================================
 # LEVEL 1:
-json_schedule_filename          = './level1/example_schedule.json'
+json_schedule_filename          = './level1/test.json'
 json_vehicle_config_filename    = './level1/vehicle.json'
 parameter_filename              = './level1/parameters.py'
 network_filename                = './level1/Network_1.py'
