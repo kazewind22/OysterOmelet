@@ -19,3 +19,34 @@ edge_list = [('A', 'B'),
              ('C', 'A')]
 
 price_list= [33, 45, 55] # price per passenger per leg
+
+
+
+# for node in node_list:
+#     if demand['Npax'] >= vehicle['Pax_max']:
+#         passenger = vehicle['Pax_max']
+#     else:
+#         passenger = demand['Npax']
+
+
+
+# if rule_A:
+#     if rule_A_1:
+#         if rule_A_11:
+#         elif rule_A_11:
+#     elif rule_A_2:
+#     else:
+# elif rule_B:
+#     if rule_B_1:
+#     elif rule_B_2:
+#         if rule_B_21:
+#             print ('too many if!')
+#     else:
+# elif rule_C:
+#     if rule_C_1:
+#     else:
+# elif rule_D:
+#     if rule_D_1:
+#     if rule_D_2:
+#     else:
+# else:

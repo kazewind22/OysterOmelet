@@ -4,27 +4,27 @@
     "V_min": 50,
     "V_max": 60,
     "Pax_max": 4,
-    "cost": 4
+    "cost": 200
   },
   {
     "pavId": "Drone2",
     "V_min": 50,
     "V_max": 60,
     "Pax_max": 2,
-    "cost": 2.5
+    "cost": 150
   },
   {
     "pavId": "Drone3",
     "V_min": 50,
     "V_max": 60,
     "Pax_max": 2,
-    "cost": 2.5
+    "cost": 150
   },
   {
     "pavId": "Drone4",
     "V_min": 50,
     "V_max": 60,
     "Pax_max": 2,
-    "cost": 2.5
+    "cost": 150
   }
 ]
